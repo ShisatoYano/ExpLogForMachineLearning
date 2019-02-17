@@ -26,3 +26,8 @@ Sample program to plot differential graph of exponential function.
 ---
 Sample program to plot differential graph of logarithm function.  
 ![](2019-02-16-17-55-01.png)  
+
+## Sample 6: plot_sigmoid_function.py
+---
+Sample program to plot sigmoid function graph.  
+![](2019-02-17-21-26-27.png)  
