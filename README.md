@@ -29,5 +29,10 @@ Sample program to plot differential graph of logarithm function.
 
 ## Sample 6: plot_sigmoid_function.py
 ---
-Sample program to plot sigmoid function graph.  
+Sample program to plot graph of sigmoid function.  
 ![](2019-02-17-21-26-27.png)  
+
+## Sample 7: plot_softmax_function.py
+---
+Sample program to plot softmax function graph.
+![](2019-02-26-22-06-19.png)  
