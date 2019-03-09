@@ -34,5 +34,23 @@ Sample program to plot graph of sigmoid function.
 
 ## Sample 7: plot_softmax_function.py
 ---
-Sample program to plot softmax function graph.
+Sample program to plot softmax function graph.  
 ![](2019-02-26-22-06-19.png)  
+
+## Sample 8: plot_gaussian_function.py
+---
+Sample program to plot gaussian function graph.  
+![](2019-03-06-21-56-37.png)  
+
+## Sample 9: plot_gauss_contour_surface_graph.py
+---
+Sample program to plot gaussian contour and surface graph.  
+![](2019-03-09-16-34-58.png)  
+
+## Sample 10: plot_gauss_parameter_graph.py
+---
+Sample program to plot graph of gaussian function with some parameters.  
+Parameter1: a.  
+Parameter2: mu.  
+Parameter3: sigma.  
+![](2019-03-09-23-42-59.png)  
